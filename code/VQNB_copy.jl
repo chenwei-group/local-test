@@ -87,3 +87,8 @@ function VQNB_copy(X,y,k)
 	return GenericModel(predict)
 	
 end
+
+
+x=1
+y=1
+x*y
